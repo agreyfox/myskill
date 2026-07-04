@@ -5,7 +5,7 @@
 
 ## 📂 技能列表
 
-当前库中收录了以下 **11** 个高价值 Skill：
+当前库中收录了以下 **12** 个高价值 Skill：
 
 | 技能名称 (Dir) | 简介 | 核心职责 |
 |---|---|---|
@@ -20,6 +20,7 @@
 | 📂 [grilling](./grilling) | 深度痛点挖掘与苏格拉底提问 | 类似于 Matt Pocock 提倡的 "Grilling" 模式，通过尖锐且有深度的问题挖掘核心需求。 |
 | 📂 [imagen](./imagen) | Imagen 图像生成控制 | 精细化控制图像生成 Prompt 和参数，生成符合高要求视觉规范的图片资源。 |
 | 📂 [obsidian](./obsidian) | Obsidian 知识库管理 | 处理和同步本地或云端的 Markdown 笔记，实现自动化双链管理。 |
+| 📂 [obsidian-project-executor](./obsidian-project-executor) | Obsidian 项目执行工作流 | 用 Obsidian Project Plan、功能/Gap note、实施 leaf log 和测试门禁推进软件项目。 |
 
 ---
 
